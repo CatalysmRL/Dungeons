@@ -1,0 +1,12 @@
+name: Dungeons
+version: '${project.version}'
+main: de.skyamogus.dungeons.Dungeons
+api-version: 1.17
+depend: [ Parties, MythicMobs ]
+authors: [ C4t4lysm, KryptosRl ]
+description: Custom dungeon plugin for SkyAmogus
+
+commands:
+  dungeons:
+    description: Simple dungeon plugin
+    usage: /<command>
